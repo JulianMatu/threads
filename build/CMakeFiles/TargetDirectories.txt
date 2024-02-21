@@ -1,0 +1,3 @@
+/mnt/c/Users/julia/source/repos/threads/build/CMakeFiles/threads.dir
+/mnt/c/Users/julia/source/repos/threads/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/julia/source/repos/threads/build/CMakeFiles/rebuild_cache.dir
