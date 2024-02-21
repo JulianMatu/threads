@@ -22,7 +22,7 @@ int main(int argc, char* argv[])
 		try {
 			arguments.push_back(std::stoi(argv[i]));
 		}
-		catch (std::invalid_argument) {
+		catch (...) {
 			printf("Invalid executable arguments, terminating...\n");
 			return 1;
 		}
