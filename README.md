@@ -3,7 +3,7 @@ This program is intended to demonstrate basic usage of multithreading on Linux O
 It simply takes in command-line arguments which are parsed and analyzed by the application.
 It will calculate the average, maximum, minimum, median, and standard deviation of these numbers in separate threads and ouput the values to the user in the command line.
 
-This program was created and submitted as part of an assignment for CPSC 351 Operating Systems Concepts in 2023.
+This program was created and submitted as part of an assignment for CPSC 351 Operating Systems Concepts in 2024.
 
 # Building
 This program uses CMake to build binary executibles.
