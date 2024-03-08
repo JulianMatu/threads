@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/threads.dir/threads.cpp.o CMakeFiles/threads.dir/tests.cpp.o -o threads  -lpthread 
